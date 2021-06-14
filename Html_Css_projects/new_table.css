@@ -1,0 +1,22 @@
+ol {
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+ul {
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+}
+
+.header {
+    color: black;
+    font-weight: 300;
+    font-size: large;
+    font-weight: 300;
+    text-shadow: 2px 2px greenyellow;
+    border: 4px chartreuse;
+    border-radius: 5px;
+    background-color: black;
+}
